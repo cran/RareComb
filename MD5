@@ -1,10 +1,10 @@
-34556b8ba830a8685382bae8e1e0f6e4 *DESCRIPTION
+9ac4329a1d60ff5a853fd86092c55430 *DESCRIPTION
 b3aa929d9de5090ee260082545e93f19 *LICENSE
 ce2d1acceb433d2fc4047fac7b7cb07c *NAMESPACE
 576882b5f45f8cd3bb6ee26be1fd5c7c *R/analyze_inout_simultaneity.R
-4d98fcc1fc0d14de1b986018d35e13bd *R/compare_enrichment.R
-7c7403c0a430f6eed46c52c12098000e *R/compare_enrichment_depletion.R
-051ce794edcedebf13e3e33775f93113 *R/compare_enrichment_modifiers.R
+aa2a80dcf98857f3b05f6edb62c9e080 *R/compare_enrichment.R
+709feff5a0eed72d0228c6208e3e369a *R/compare_enrichment_depletion.R
+7aafe4e0c8ea444999f26a55ceb5a332 *R/compare_enrichment_modifiers.R
 718d9a90f681d0105549c35b39da7741 *R/compare_expected_vs_observed.R
 250b47ce68efd814b7d1e0f1d9677eea *R/custom_left_join.R
 107a5c75fe9198856afbfc8271c5db8e *R/data.R
